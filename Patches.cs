@@ -6,6 +6,7 @@ namespace NoCultivatorDust;
 [HarmonyPatch(typeof(ZNetScene), nameof(ZNetScene.Awake))]
 static class ZNetSceneAwakePatch
 {
+    [HarmonyPriority(Priority.Last)]
     static void Postfix(ZNetScene __instance)
     {
         // For each PieceTable and for each Piece in each PieceTable remove the place effect
@@ -36,6 +37,7 @@ static class ZNetSceneAwakePatch
 [HarmonyPatch(typeof(Player), nameof(Player.PlacePiece))]
 static class PiecePlacePiecePatch
 {
+    [HarmonyPriority(Priority.First)]
     static void Prefix(Player __instance, ref Piece piece)
     {
         // cache the piece.gameObject.name

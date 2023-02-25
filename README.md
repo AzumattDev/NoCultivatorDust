@@ -24,6 +24,10 @@ For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
 ***
 
 > # Update Information (Latest listed first)
-> ### v1.0.0/1.0.1/1.0.2
-> - Initial Release
-> - Remove debug logging (v1.0.1 & 1.0.2) that I missed in the initial release.
+
+| `Version` | `Update Notes`                                                                |
+|-----------|-------------------------------------------------------------------------------|
+| 1.0.3     | - Set the priority to last, hopefully providing compatibility with more mods. |
+| 1.0.2     | - Remove more debug stuff                                                     |
+| 1.0.1     | - Remove debug stuff I missed                                                 |
+| 1.0.0     | - Initial Release                                                             |
