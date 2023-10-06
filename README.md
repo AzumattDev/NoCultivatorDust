@@ -21,13 +21,3 @@ For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
 
 [![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)](https://discord.gg/Pb6bVMnFb2)
 <a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>
-***
-
-> # Update Information (Latest listed first)
-
-| `Version` | `Update Notes`                                                                |
-|-----------|-------------------------------------------------------------------------------|
-| 1.0.3     | - Set the priority to last, hopefully providing compatibility with more mods. |
-| 1.0.2     | - Remove more debug stuff                                                     |
-| 1.0.1     | - Remove debug stuff I missed                                                 |
-| 1.0.0     | - Initial Release                                                             |
