@@ -13,7 +13,7 @@ namespace NoCultivatorDust
     public class NoCultivatorDustPlugin : BaseUnityPlugin
     {
         internal const string ModName = "NoCultivatorDust";
-        internal const string ModVersion = "1.0.5";
+        internal const string ModVersion = "1.0.6";
         internal const string Author = "Azumatt";
         private const string ModGUID = Author + "." + ModName;
 
